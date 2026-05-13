@@ -1,10 +1,8 @@
-# Verified RU Proxies (8)
-# Updated: 2026-05-12 21:22:56 UTC
+# Verified RU Proxies (6)
+# Updated: 2026-05-13 03:47:36 UTC
 # Method: TCP_OK
-# Best ping: 0.091s
+# Best ping: 0.088s
 
-tg://proxy?server=144.31.54.207&port=443&secret=eec5081bcd191b76e90ee894d248e44c42706574726f766963682e7275
-tg://proxy?server=2.27.22.112&port=443&secret=ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275
 tg://proxy?server=89.125.48.232&port=443&secret=ee72f3ca54320d22b0c5d8daf53168962d706574726f766963682e7275
 tg://proxy?server=i-love-femboys.etherealvpn.uk&port=443&secret=ee57203620e3e6c5ced2a332dab5381fc8617669746f2e7275
 tg://proxy?server=mt.corph.ru&port=443&secret=ee2ed7517b077ef414e24b106e0729335d6d742e636f7270682e7275
