@@ -1,7 +1,7 @@
 # Verified RU Proxies (5)
-# Updated: 2026-07-10 17:49:43 UTC
+# Updated: 2026-07-10 21:09:10 UTC
 # Method: TCP_OK
-# Best ping: 0.16s
+# Best ping: 0.158s
 
 tg://proxy?server=s01.neo-trading.org&port=443&secret=ee7391242569590e01416101927d38b565646e732d73686f702e7275
 tg://proxy?server=s3.24starsmarket.ru&port=443&secret=eed95970bd8584d336f1b923ab691fa43d73332e323473746172736d61726b65742e7275
