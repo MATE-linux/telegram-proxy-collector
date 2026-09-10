@@ -1,7 +1,6 @@
-# Verified RU Proxies (2)
-# Updated: 2026-09-10 03:52:31 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-09-10 08:48:45 UTC
 # Method: TCP_OK
-# Best ping: 0.21s
+# Best ping: 0.346s
 
 tg://proxy?server=cdn14.cdnwave.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275
-tg://proxy?server=s2.assetflux.org&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275
